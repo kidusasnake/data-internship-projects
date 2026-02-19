@@ -1,0 +1,13 @@
+# Student Grade Tracker
+A Python program to store and calculate student scores.
+
+## Tools Used
+- Python 3
+
+## Features
+- Add, update, and calculate student averages
+- Simple command-line interface
+
+## How to Run
+1. Open grade_tracker.py in Python 3
+2. Follow on-screen instructions
